@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a visionary tech entrepreneur and product designer pas
 - 🔹 Design Thinking & Product Innovation  
 - 🔹 AI, FinTech, and the Future of Work  
 
-📌 *Check out my articles and upcoming talks on [LinkedIn](https://www.linkedin.com/in/bethelamadi/).*
+📌 *Check out my articles and upcoming talks on [LinkedIn](https://www.linkedin.com/in/amadibethel/).*
 
 ---
 
