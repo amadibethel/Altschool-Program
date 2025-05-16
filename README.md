@@ -2,7 +2,7 @@
 
 ## 🚀 AI Product Architect | Digital Innovator | Fintech Entrepreneur
 
-Welcome to my GitHub! I'm a visionary tech entrepreneur and product designer passionate about leveraging emerging technologies to solve real-world problems — especially across Africa. With a strong background in **AI**, **FinTech**, **UX/UI**, and **digital transformation**, I build and scale impactful digital solutions from the ground up.
+Welcome to my GitHub! I'm a visionary tech entrepreneur and product designer passionate about leveraging emerging technologies to solve real-world problems — especially across Africa. With a strong background in **AI**, **FinTech**, **UX/UI Design**, and **Digital Transformation**, I build and scale impactful digital solutions from the ground up.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a visionary tech entrepreneur and product designer pas
 
 ### 💡 Projects I’m Working On
 - 🔐 **Finclusion** – Universal digital identity for frictionless banking.
-- 🚕 **EcoRide** – An AI & blockchain-powered ride-hailing ecosystem.
+- 🚕 **EkoRyde** – An AI & blockchain-powered ride-hailing ecosystem.
 - 📣 **iVote** – A decentralized electioneering platform for transparent voting.
 - 🎧 **Audibly** – A text-to-speech app enhancing content accessibility.
 - 🎓 **AltSchool Portal Redesign** – Streamlining student journeys through UX.
